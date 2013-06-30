@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics", "SourceFi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics XNA", "SourceFiles\Farseer Physics XNA.csproj", "{0A850700-1ABB-4288-A391-6726B90EBEB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics MonoGame", "SourceFiles\Farseer Physics MonoGame.csproj", "{A4610E4C-DD34-428B-BABB-779CA0B5993A}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics Silverlight", "SourceFiles\Farseer Physics Silverlight.csproj", "{786DC838-D746-4107-93FF-19A902A78CFC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics Xbox360", "SourceFiles\Farseer Physics Xbox360.csproj", "{448C63FB-8177-4CC6-B2AD-1D44031B3C2E}"
